@@ -1,0 +1,2 @@
+# gamestore.client
+# GameStore-Client
